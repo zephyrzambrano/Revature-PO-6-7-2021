@@ -1,6 +1,6 @@
 # Revature-PO-6-7-2021
 
-Weekly Coding Challenges and Logical Reasoning Question for Revature Project Onboarding for the week of 6/7/2021
+Weekly Coding Challenges and Logical Reasoning Question for Revature Project Onboarding. THese are for the week of 6/7/2021 to 6/11/2021.
 
 ## Weekly Coding Challenge 1
 
